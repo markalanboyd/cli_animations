@@ -1,0 +1,11 @@
+[package]
+name = "cli_animations"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Various CLI animations. Very early stages, but intending this to be a library of useful animations for CLI apps."
+repository = "https://github.com/markalanboyd/cli_animations"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
